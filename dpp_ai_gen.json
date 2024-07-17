@@ -1,0 +1,22 @@
+{
+    "org.toughtcrime.securesms": [
+        "control vibration",
+        "record audio",
+        "read the contents of your USB storage",
+        "modify your contacts",
+        "modify or delete the contents of your USB storage",
+        "full network access",
+        "read phone status and identity",
+        "send SMS messages",
+        "run at startup",
+        "view network connections",
+        "receive text messages (SMS)",
+        "receive data from Internet",
+        "use accounts on the device",
+        "directly call phone numbers",
+        "read your contacts",
+        "pair with Bluetooth devices",
+        "prevent device from sleeping",
+        "take pictures and videos"
+    ]
+}

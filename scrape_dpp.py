@@ -34,18 +34,23 @@ if __name__ == "__main__":
     # JSON of data practices
     privacy = {}
 
+    with open("dpp_human_gen_raw.json", 'r') as dpp_file:
+        privacy = json.load(dpp_file)
+
     try:
         # Go through each app and pull the data practices
         for app_id in app_ids:
-            print(f'Pulling privacy practices for: {app_id}')
-            privacy[app_id] = get_permissions(app_id)
-            time.sleep(2)
+            # Only request if not already has it
+            if app_id not in privacy:
+                print(f'Pulling privacy practices for: {app_id}')
+                privacy[app_id] = get_permissions(app_id)
+                time.sleep(2)
     
     except Exception as e:
         print(e)
         print('Error occured, printing result to json')
 
     # Write the dictionary to a JSON file
-    with open('privacy_practices.json', 'w') as json_file:
+    with open('dpp_human_gen_raw.json', 'w') as json_file:
         json.dump(privacy, json_file, indent=4)
 
