@@ -1,0 +1,602 @@
+{
+    "org.thoughtcrime.securesms": {
+        "Identity": [
+            "find accounts on the device",
+            "read your own contact card"
+        ],
+        "Contacts": [
+            "find accounts on the device",
+            "modify your contacts",
+            "read your contacts"
+        ],
+        "Location": [
+            "approximate location (network-based)",
+            "precise location (GPS and network-based)"
+        ],
+        "Phone": [
+            "read phone status and identity"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Device ID & call information": [
+            "read phone status and identity"
+        ],
+        "Other": [
+            "change network connectivity",
+            "change your audio settings",
+            "connect and disconnect from Wi-Fi",
+            "control vibration",
+            "create accounts and set passwords",
+            "disable your screen lock",
+            "full network access",
+            "install shortcuts",
+            "pair with Bluetooth devices",
+            "prevent device from sleeping",
+            "read sync settings",
+            "run at startup",
+            "send sticky broadcast",
+            "toggle sync on and off",
+            "use accounts on the device",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "receive data from Internet"
+        ]
+    },
+    "com.einnovation.temu": {
+        "Location": [
+            "approximate location (network-based)",
+            "precise location (GPS and network-based)"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Other": [
+            "control vibration",
+            "full network access",
+            "prevent device from sleeping",
+            "run at startup",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "receive data from Internet"
+        ]
+    },
+    "com.whatsapp": {
+        "Device & app history": [
+            "retrieve running apps"
+        ],
+        "Identity": [
+            "add or remove accounts",
+            "find accounts on the device",
+            "read your own contact card"
+        ],
+        "Contacts": [
+            "find accounts on the device",
+            "modify your contacts",
+            "read your contacts"
+        ],
+        "Location": [
+            "approximate location (network-based)",
+            "precise location (GPS and network-based)"
+        ],
+        "SMS": [
+            "receive text messages (SMS)",
+            "send SMS messages"
+        ],
+        "Phone": [
+            "directly call phone numbers",
+            "read call log",
+            "read phone status and identity"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Device ID & call information": [
+            "read phone status and identity"
+        ],
+        "Other": [
+            "access Bluetooth settings",
+            "change network connectivity",
+            "change your audio settings",
+            "connect and disconnect from Wi-Fi",
+            "control Near Field Communication",
+            "control vibration",
+            "create accounts and set passwords",
+            "draw over other apps",
+            "full network access",
+            "install shortcuts",
+            "pair with Bluetooth devices",
+            "prevent device from sleeping",
+            "read Google service configuration",
+            "read sync settings",
+            "reorder running apps",
+            "run at startup",
+            "send sticky broadcast",
+            "toggle sync on and off",
+            "uninstall shortcuts",
+            "use accounts on the device",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "read sync statistics",
+            "receive data from Internet"
+        ]
+    },
+    "com.facebook.orca": {
+        "Identity": [
+            "add or remove accounts",
+            "find accounts on the device",
+            "read your own contact card"
+        ],
+        "Calendar": [
+            "read calendar events plus confidential information"
+        ],
+        "Contacts": [
+            "find accounts on the device",
+            "modify your contacts",
+            "read your contacts"
+        ],
+        "Location": [
+            "approximate location (network-based)",
+            "precise location (GPS and network-based)"
+        ],
+        "Phone": [
+            "directly call phone numbers",
+            "read phone status and identity"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Device ID & call information": [
+            "read phone status and identity"
+        ],
+        "Other": [
+            "access Bluetooth settings",
+            "change network connectivity",
+            "change your audio settings",
+            "connect and disconnect from Wi-Fi",
+            "control Near Field Communication",
+            "control vibration",
+            "create accounts and set passwords",
+            "draw over other apps",
+            "full network access",
+            "install shortcuts",
+            "pair with Bluetooth devices",
+            "prevent device from sleeping",
+            "read Google service configuration",
+            "read sync settings",
+            "run at startup",
+            "toggle sync on and off",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "capture video output",
+            "download files without notification",
+            "receive data from Internet"
+        ]
+    },
+    "com.snapchat.android": {
+        "Identity": [
+            "find accounts on the device",
+            "read your own contact card"
+        ],
+        "Contacts": [
+            "find accounts on the device",
+            "modify your contacts",
+            "read your contacts"
+        ],
+        "Location": [
+            "precise location (GPS and network-based)"
+        ],
+        "Phone": [
+            "read phone status and identity"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Device ID & call information": [
+            "read phone status and identity"
+        ],
+        "Other": [
+            "access Bluetooth settings",
+            "change network connectivity",
+            "change your audio settings",
+            "connect and disconnect from Wi-Fi",
+            "control flashlight",
+            "control vibration",
+            "create accounts and set passwords",
+            "full network access",
+            "pair with Bluetooth devices",
+            "prevent device from sleeping",
+            "read sync settings",
+            "run at startup",
+            "toggle sync on and off",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "read sync statistics",
+            "receive data from Internet"
+        ]
+    },
+    "com.instagram.android": {
+        "Device & app history": [
+            "retrieve running apps"
+        ],
+        "Identity": [
+            "add or remove accounts",
+            "find accounts on the device",
+            "read your own contact card"
+        ],
+        "Calendar": [
+            "add or modify calendar events and send email to guests without owners' knowledge",
+            "read calendar events plus confidential information"
+        ],
+        "Contacts": [
+            "find accounts on the device",
+            "read your contacts"
+        ],
+        "Location": [
+            "precise location (GPS and network-based)"
+        ],
+        "SMS": [
+            "receive text messages (SMS)"
+        ],
+        "Phone": [
+            "directly call phone numbers",
+            "read call log",
+            "read phone status and identity"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Device ID & call information": [
+            "read phone status and identity"
+        ],
+        "Other": [
+            "access Bluetooth settings",
+            "change your audio settings",
+            "connect and disconnect from Wi-Fi",
+            "control vibration",
+            "create accounts and set passwords",
+            "full network access",
+            "install shortcuts",
+            "pair with Bluetooth devices",
+            "prevent device from sleeping",
+            "read battery statistics",
+            "reorder running apps",
+            "run at startup",
+            "uninstall shortcuts",
+            "use accounts on the device",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "capture video output",
+            "change screen orientation",
+            "read frame buffer",
+            "receive data from Internet"
+        ]
+    },
+    "com.indeed.android.jobsearch": {
+        "Location": [
+            "approximate location (network-based)",
+            "precise location (GPS and network-based)"
+        ],
+        "Phone": [
+            "directly call phone numbers"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Other": [
+            "change your audio settings",
+            "control vibration",
+            "full network access",
+            "pair with Bluetooth devices",
+            "prevent device from sleeping",
+            "reorder running apps",
+            "run at startup",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "receive data from Internet"
+        ]
+    },
+    "com.ubercab.driver": {
+        "Identity": [
+            "find accounts on the device"
+        ],
+        "Contacts": [
+            "find accounts on the device",
+            "read your contacts"
+        ],
+        "Location": [
+            "approximate location (network-based)",
+            "precise location (GPS and network-based)"
+        ],
+        "Phone": [
+            "read phone status and identity"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Device ID & call information": [
+            "read phone status and identity"
+        ],
+        "Other": [
+            "access Bluetooth settings",
+            "change network connectivity",
+            "change your audio settings",
+            "control vibration",
+            "draw over other apps",
+            "full network access",
+            "pair with Bluetooth devices",
+            "prevent device from sleeping",
+            "read Google service configuration",
+            "run at startup",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "receive data from Internet"
+        ]
+    },
+    "org.telegram.messenger": {
+        "Identity": [
+            "add or remove accounts",
+            "find accounts on the device",
+            "read your own contact card"
+        ],
+        "Contacts": [
+            "find accounts on the device",
+            "modify your contacts",
+            "read your contacts"
+        ],
+        "Location": [
+            "approximate location (network-based)",
+            "precise location (GPS and network-based)"
+        ],
+        "Phone": [
+            "directly call phone numbers",
+            "read call log",
+            "read phone status and identity"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Device ID & call information": [
+            "read phone status and identity"
+        ],
+        "Other": [
+            "change your audio settings",
+            "control vibration",
+            "create accounts and set passwords",
+            "draw over other apps",
+            "full network access",
+            "install shortcuts",
+            "pair with Bluetooth devices",
+            "prevent device from sleeping",
+            "read Google service configuration",
+            "read sync settings",
+            "run at startup",
+            "toggle sync on and off",
+            "uninstall shortcuts",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "receive data from Internet"
+        ]
+    },
+    "com.twitter.android": {
+        "Identity": [
+            "add or remove accounts",
+            "find accounts on the device",
+            "read your own contact card"
+        ],
+        "Contacts": [
+            "find accounts on the device",
+            "read your contacts"
+        ],
+        "Location": [
+            "approximate location (network-based)",
+            "precise location (GPS and network-based)"
+        ],
+        "Phone": [
+            "read phone status and identity"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Device ID & call information": [
+            "read phone status and identity"
+        ],
+        "Other": [
+            "Google Play license check",
+            "change your audio settings",
+            "control vibration",
+            "create accounts and set passwords",
+            "draw over other apps",
+            "full network access",
+            "install shortcuts",
+            "measure app storage space",
+            "pair with Bluetooth devices",
+            "prevent device from sleeping",
+            "read Google service configuration",
+            "read sync settings",
+            "toggle sync on and off",
+            "use accounts on the device",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "receive data from Internet"
+        ]
+    },
+    "com.zhiliaoapp.musically": {
+        "Contacts": [
+            "read your contacts"
+        ],
+        "Location": [
+            "approximate location (network-based)"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Other": [
+            "allow Wi-Fi Multicast reception",
+            "change network connectivity",
+            "change your audio settings",
+            "control vibration",
+            "draw over other apps",
+            "full network access",
+            "pair with Bluetooth devices",
+            "prevent device from sleeping",
+            "reorder running apps",
+            "set wallpaper",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "read Home settings and shortcuts",
+            "receive data from Internet"
+        ]
+    }
+}
