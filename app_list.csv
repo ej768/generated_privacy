@@ -1,0 +1,40 @@
+app_name,app_id,github_link
+Temu,com.einnovation.temu,
+Whatsapp,com.whatsapp,
+Facebook,com.facebook.orca,
+Snapchat,com.snapchat.android,
+Instagram,com.instagram.android,
+Indeed,com.indeed.android.jobsearch,
+Uber,com.ubercab.driver,
+Telegram,org.telegram.messenger,
+Twitter,com.twitter.android,
+Tik Tok,com.zhiliaoapp.musically,
+Signal,org.thoughtcrime.securesms,https://github.com/signalapp/Signal-Android
+AntennaPod,de.danoeh.antennapod,https://github.com/AntennaPod/AntennaPod
+Firefox,org.mozilla.firefox,https://github.com/mozilla-mobile/firefox-android
+Duck Duck Go,com.duckduckgo.mobile.android,https://github.com/duckduckgo/Android
+Voice ,de.ph1b.audiobook,https://github.com/PaulWoitaschek/Voice
+ProtonVPN,ch.protonvpn.android,https://github.com/ProtonVPN/android-app
+Mullvad VPN,net.mullvad.mullvadvpn,https://github.com/mullvad/mullvadvpn-app
+Joplin,net.cozic.joplin,https://github.com/laurent22/joplin
+Standard Notes,com.standardnotes,https://github.com/standardnotes/app
+Simple Note,com.automattic.simplenote,https://github.com/Automattic/simplenote-android
+Bitwarden,com.x8bit.bitwarden,https://github.com/bitwarden
+Aegis Authenticator,com.beemdevelopment.aegis,https://github.com/beemdevelopment/Aegis
+Proton Mail,ch.protonmail.android,https://github.com/ProtonMail/proton-mail-android
+FairEmail,eu.faircode.email,https://github.com/M66B/FairEmail
+Tutanota,de.tutao.tutanota,https://github.com/tutao/tutanota
+VLC Media Player,org.videolan.vlc,https://github.com/videolan/vlc-android
+Nova Video Player,org.courville.nova,https://github.com/videolan/vlc-android
+LocalSend,org.localsend.localsend_app,https://github.com/localsend/localsend
+KDE Connect,org.kde.kdeconnect_tp,https://github.com/KDE/kdeconnect-kde
+Amaze File Manager,com.amaze.filemanager,https://github.com/TeamAmaze/AmazeFileManager
+Fossify File Manager,org.fossify.filemanager,https://github.com/FossifyOrg/File-Manager
+Lawnchair Launcher,ch.deletescape.lawnchair.plah,https://github.com/LawnchairLauncher/Lawnchair-V1
+Lunar Launcher,rasel.lunar.launcher,https://github.com/iamrasel/lunar-launcher
+K-9 Mail,com.fsck.k9,https://github.com/k9mail/k-9
+OmniNotes,it.feio.android.omninotes,https://github.com/federicoiosue/Omni-Notes
+Mutify,live.teekamsuthar.mutify,https://github.com/teekamsuthar/Mutify
+TimberX Music Player,com.naman14.timberx,https://github.com/naman14/TimberX
+KeePassDX,com.kunzisoft.keepass.free,https://github.com/Kunzisoft/KeePassDX
+Ivy Wallet,com.ivy.wallet,https://github.com/Ivy-Apps/ivy-wallet

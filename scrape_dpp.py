@@ -1,18 +1,7 @@
 import time
 import json
+import pandas as pd
 from google_play_scraper import app, permissions
-
-def get_app_privacy_practices(app_id):
-    try:
-        # Fetch app details
-        app_details = app(app_id)
-
-        # Extract privacy practices information
-        privacy_practices = app_details.get('privacyPolicy', 'No privacy practices information available')
-
-        return privacy_practices
-    except Exception as e:
-        return f"An error occurred: {e}"
 
 
 def get_permissions(app_id):
@@ -28,8 +17,8 @@ def get_permissions(app_id):
 if __name__ == "__main__":
     # Read list of app ids from txt file
     app_ids = []
-    with open("app_list.txt") as file:
-        app_ids = file.read().splitlines() 
+    with open("app_list.csv") as file:
+        app_ids = pd.read_csv(file)["app_id"].dropna().tolist()
 
     # JSON of data practices
     privacy = {}

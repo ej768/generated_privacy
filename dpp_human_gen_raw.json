@@ -598,5 +598,610 @@
             "read Home settings and shortcuts",
             "receive data from Internet"
         ]
+    },
+    "de.danoeh.antennapod": {
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Other": [
+            "control vibration",
+            "full network access",
+            "pair with Bluetooth devices",
+            "prevent device from sleeping",
+            "run at startup",
+            "view network connections"
+        ]
+    },
+    "org.mozilla.firefox": {
+        "Location": [
+            "approximate location (network-based)",
+            "precise location (GPS and network-based)"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Other": [
+            "change your audio settings",
+            "control vibration",
+            "full network access",
+            "install shortcuts",
+            "prevent device from sleeping",
+            "run at startup",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "download files without notification",
+            "receive data from Internet"
+        ]
+    },
+    "com.duckduckgo.mobile.android": {
+        "Location": [
+            "approximate location (network-based)",
+            "precise location (GPS and network-based)"
+        ],
+        "Phone": [
+            "read phone status and identity"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Device ID & call information": [
+            "read phone status and identity"
+        ],
+        "Other": [
+            "change your audio settings",
+            "full network access",
+            "install shortcuts",
+            "prevent device from sleeping",
+            "run at startup",
+            "view network connections"
+        ]
+    },
+    "de.ph1b.audiobook": {
+        "Other": [
+            "full network access",
+            "prevent device from sleeping",
+            "view network connections"
+        ]
+    },
+    "ch.protonvpn.android": {
+        "Other": [
+            "connect and disconnect from Wi-Fi",
+            "full network access",
+            "prevent device from sleeping",
+            "run at startup",
+            "view network connections"
+        ]
+    },
+    "net.mullvad.mullvadvpn": {
+        "Other": [
+            "full network access",
+            "view network connections"
+        ]
+    },
+    "net.cozic.joplin": {
+        "Location": [
+            "precise location (GPS and network-based)"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Other": [
+            "Google Play license check",
+            "control vibration",
+            "full network access",
+            "prevent device from sleeping",
+            "run at startup",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "receive data from Internet"
+        ]
+    },
+    "com.standardnotes": {
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Other": [
+            "control vibration",
+            "full network access",
+            "prevent device from sleeping",
+            "run at startup",
+            "view network connections"
+        ]
+    },
+    "com.automattic.simplenote": {
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Other": [
+            "full network access",
+            "pair with Bluetooth devices",
+            "prevent device from sleeping",
+            "run at startup",
+            "view network connections"
+        ]
+    },
+    "com.x8bit.bitwarden": {
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Other": [
+            "control Near Field Communication",
+            "control vibration",
+            "draw over other apps",
+            "full network access",
+            "prevent device from sleeping",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "receive data from Internet"
+        ]
+    },
+    "com.beemdevelopment.aegis": {
+        "Camera": [
+            "take pictures and videos"
+        ]
+    },
+    "ch.protonmail.android": {
+        "Contacts": [
+            "read your contacts"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Other": [
+            "full network access",
+            "prevent device from sleeping",
+            "run at startup",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "receive data from Internet"
+        ]
+    },
+    "eu.faircode.email": {
+        "Identity": [
+            "find accounts on the device"
+        ],
+        "Contacts": [
+            "find accounts on the device",
+            "read your contacts"
+        ],
+        "Photos/Media/Files": [
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "read the contents of your USB storage"
+        ],
+        "Other": [
+            "full network access",
+            "prevent device from sleeping",
+            "run at startup",
+            "use accounts on the device",
+            "view network connections"
+        ]
+    },
+    "de.tutao.tutanota": {
+        "Identity": [
+            "add or remove accounts",
+            "find accounts on the device"
+        ],
+        "Contacts": [
+            "find accounts on the device",
+            "modify your contacts",
+            "read your contacts"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Other": [
+            "control vibration",
+            "create accounts and set passwords",
+            "full network access",
+            "run at startup",
+            "use accounts on the device",
+            "view network connections"
+        ]
+    },
+    "org.videolan.vlc": {
+        "Device & app history": [
+            "read sensitive log data"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Other": [
+            "change your audio settings",
+            "control vibration",
+            "draw over other apps",
+            "full network access",
+            "modify system settings",
+            "pair with Bluetooth devices",
+            "prevent device from sleeping",
+            "run at startup",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "read TV channel/program information",
+            "write TV channel/program information"
+        ]
+    },
+    "org.courville.nova": {
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Other": [
+            "access Bluetooth settings",
+            "allow Wi-Fi Multicast reception",
+            "change your audio settings",
+            "connect and disconnect from Wi-Fi",
+            "draw over other apps",
+            "full network access",
+            "pair with Bluetooth devices",
+            "prevent device from sleeping",
+            "run at startup",
+            "send sticky broadcast",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "read TV channel/program information",
+            "write TV channel/program information"
+        ]
+    },
+    "org.localsend.localsend_app": {
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Other": [
+            "full network access",
+            "view network connections"
+        ]
+    },
+    "org.kde.kdeconnect_tp": {
+        "Device & app history": [
+            "read sensitive log data"
+        ],
+        "Contacts": [
+            "read your contacts"
+        ],
+        "Location": [
+            "approximate location (network-based)",
+            "precise location (GPS and network-based)"
+        ],
+        "SMS": [
+            "read your text messages (SMS or MMS)",
+            "receive text messages (MMS)",
+            "receive text messages (SMS)",
+            "send SMS messages"
+        ],
+        "Phone": [
+            "read call log",
+            "read phone status and identity"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Device ID & call information": [
+            "read phone status and identity"
+        ],
+        "Other": [
+            "access Bluetooth settings",
+            "allow Wi-Fi Multicast reception",
+            "change network connectivity",
+            "connect and disconnect from Wi-Fi",
+            "control vibration",
+            "draw over other apps",
+            "full network access",
+            "pair with Bluetooth devices",
+            "prevent device from sleeping",
+            "run at startup",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "download files without notification"
+        ]
+    },
+    "com.amaze.filemanager": {
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Other": [
+            "full network access",
+            "install shortcuts",
+            "prevent device from sleeping",
+            "view network connections"
+        ]
+    },
+    "org.fossify.filemanager": {
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ]
+    },
+    "ch.deletescape.lawnchair.plah": {
+        "Device & app history": [
+            "retrieve running apps"
+        ],
+        "Location": [
+            "approximate location (network-based)",
+            "precise location (GPS and network-based)"
+        ],
+        "Phone": [
+            "directly call phone numbers",
+            "read phone status and identity"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Device ID & call information": [
+            "read phone status and identity"
+        ],
+        "Other": [
+            "expand/collapse status bar",
+            "full network access",
+            "modify system settings",
+            "pair with Bluetooth devices",
+            "run at startup",
+            "set wallpaper",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "add or remove a device admin",
+            "adjust your wallpaper size",
+            "bind to an accessibility service",
+            "choose widgets",
+            "force stop other apps",
+            "interact across users",
+            "manage activity stacks",
+            "manage users",
+            "modify secure system settings",
+            "power device on or off",
+            "read Home settings and shortcuts",
+            "read frame buffer",
+            "retrieve running apps",
+            "start a task from recents",
+            "stop running apps",
+            "update component usage statistics",
+            "write Home settings and shortcuts"
+        ]
+    },
+    "rasel.lunar.launcher": {
+        "Phone": [
+            "directly call phone numbers"
+        ],
+        "Photos/Media/Files": [
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "read the contents of your USB storage"
+        ],
+        "Other": [
+            "expand/collapse status bar",
+            "full network access",
+            "modify system settings",
+            "set wallpaper",
+            "view network connections"
+        ]
+    },
+    "com.fsck.k9": {
+        "Contacts": [
+            "read your contacts"
+        ],
+        "Other": [
+            "control vibration",
+            "full network access",
+            "prevent device from sleeping",
+            "read sync settings",
+            "run at startup",
+            "view network connections"
+        ]
+    },
+    "it.feio.android.omninotes": {
+        "Location": [
+            "approximate location (network-based)",
+            "precise location (GPS and network-based)"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Other": [
+            "control vibration",
+            "full network access",
+            "install shortcuts",
+            "prevent device from sleeping",
+            "read Google service configuration",
+            "run at startup",
+            "set an alarm",
+            "uninstall shortcuts",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "manage document storage"
+        ]
+    },
+    "live.teekamsuthar.mutify": {},
+    "com.naman14.timberx": {
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Other": [
+            "full network access",
+            "prevent device from sleeping",
+            "send sticky broadcast",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "receive data from Internet"
+        ]
+    },
+    "com.kunzisoft.keepass.free": {
+        "Other": [
+            "control vibration"
+        ]
+    },
+    "com.ivy.wallet": {
+        "Location": [
+            "approximate location (network-based)",
+            "precise location (GPS and network-based)"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Other": [
+            "control vibration",
+            "disable your screen lock",
+            "full network access",
+            "prevent device from sleeping",
+            "run at startup",
+            "set an alarm",
+            "view network connections"
+        ]
     }
 }
