@@ -1032,16 +1032,6 @@
             "view network connections"
         ]
     },
-    "org.fossify.filemanager": {
-        "Photos/Media/Files": [
-            "modify or delete the contents of your USB storage",
-            "read the contents of your USB storage"
-        ],
-        "Storage": [
-            "modify or delete the contents of your USB storage",
-            "read the contents of your USB storage"
-        ]
-    },
     "ch.deletescape.lawnchair.plah": {
         "Device & app history": [
             "retrieve running apps"
@@ -1202,6 +1192,16 @@
             "run at startup",
             "set an alarm",
             "view network connections"
+        ]
+    },
+    "org.fossify.filemanager": {
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
         ]
     }
 }

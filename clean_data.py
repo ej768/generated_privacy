@@ -7,7 +7,8 @@ def extract_values(data):
     for app in data:
         values = []
         for ptype in data[app]:
-            values += data[app][ptype]
+            for dpp in data[app][ptype]:
+                values.append(dpp.lower())
 
         dict_permissions[app] = values
     

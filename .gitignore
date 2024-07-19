@@ -1,3 +1,6 @@
 chatgpt_apikey.txt
 .env
+archive_human_gen.json
+dpp_human_gen_raw.json
+dpp_human_gen.json
 dpp_ai_gen.json

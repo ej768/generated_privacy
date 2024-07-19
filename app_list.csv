@@ -24,16 +24,16 @@ Aegis Authenticator,com.beemdevelopment.aegis,https://github.com/beemdevelopment
 Proton Mail,ch.protonmail.android,https://github.com/ProtonMail/proton-mail-android
 FairEmail,eu.faircode.email,https://github.com/M66B/FairEmail
 Tutanota,de.tutao.tutanota,https://github.com/tutao/tutanota
-VLC Media Player,org.videolan.vlc,https://github.com/videolan/vlc-android
-Nova Video Player,org.courville.nova,https://github.com/videolan/vlc-android
+VLC Media Player,org.videolan.vlc,
+Nova Video Player,org.courville.nova,
 LocalSend,org.localsend.localsend_app,https://github.com/localsend/localsend
-KDE Connect,org.kde.kdeconnect_tp,https://github.com/KDE/kdeconnect-kde
+KDE Connect,org.kde.kdeconnect_tp,
 Amaze File Manager,com.amaze.filemanager,https://github.com/TeamAmaze/AmazeFileManager
 Fossify File Manager,org.fossify.filemanager,https://github.com/FossifyOrg/File-Manager
-Lawnchair Launcher,ch.deletescape.lawnchair.plah,https://github.com/LawnchairLauncher/Lawnchair-V1
-Lunar Launcher,rasel.lunar.launcher,https://github.com/iamrasel/lunar-launcher
+Lawnchair Launcher,ch.deletescape.lawnchair.plah,
+Lunar Launcher,rasel.lunar.launcher,
 K-9 Mail,com.fsck.k9,https://github.com/k9mail/k-9
-OmniNotes,it.feio.android.omninotes,https://github.com/federicoiosue/Omni-Notes
+OmniNotes,it.feio.android.omninotes,
 Mutify,live.teekamsuthar.mutify,https://github.com/teekamsuthar/Mutify
 TimberX Music Player,com.naman14.timberx,https://github.com/naman14/TimberX
 KeePassDX,com.kunzisoft.keepass.free,https://github.com/Kunzisoft/KeePassDX
