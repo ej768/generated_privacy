@@ -1203,5 +1203,342 @@
             "modify or delete the contents of your USB storage",
             "read the contents of your USB storage"
         ]
+    },
+    "rkr.simplekeyboard.inputmethod": {
+        "Other": [
+            "control vibration"
+        ]
+    },
+    "com.menny.android.anysoftkeyboard": {
+        "Contacts": [
+            "read your contacts"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Other": [
+            "add words to user-defined dictionary",
+            "control vibration",
+            "read terms you added to the dictionary"
+        ]
+    },
+    "com.brave.browser": {
+        "Location": [
+            "approximate location (network-based)",
+            "precise location (GPS and network-based)"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Other": [
+            "access Bluetooth settings",
+            "change your audio settings",
+            "control vibration",
+            "full network access",
+            "install shortcuts",
+            "pair with Bluetooth devices",
+            "prevent device from sleeping",
+            "reorder running apps",
+            "run at startup",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "download files without notification",
+            "receive data from Internet"
+        ]
+    },
+    "org.xbmc.kodi": {
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Other": [
+            "change your audio settings",
+            "full network access",
+            "pair with Bluetooth devices",
+            "run at startup",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "read TV channel/program information",
+            "write TV channel/program information"
+        ]
+    },
+    "com.moez.QKSMS": {
+        "Contacts": [
+            "read your contacts"
+        ],
+        "SMS": [
+            "edit your text messages (SMS or MMS)",
+            "read your text messages (SMS or MMS)",
+            "receive text messages (MMS)",
+            "receive text messages (SMS)",
+            "send SMS messages"
+        ],
+        "Phone": [
+            "directly call phone numbers",
+            "read phone status and identity"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Device ID & call information": [
+            "read phone status and identity"
+        ],
+        "Other": [
+            "control vibration",
+            "full network access",
+            "prevent device from sleeping",
+            "run at startup",
+            "view network connections"
+        ]
+    },
+    "net.osmand": {
+        "Location": [
+            "access extra location provider commands",
+            "approximate location (network-based)",
+            "precise location (GPS and network-based)"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Other": [
+            "access Bluetooth settings",
+            "change your audio settings",
+            "control vibration",
+            "full network access",
+            "pair with Bluetooth devices",
+            "prevent device from sleeping",
+            "view network connections"
+        ]
+    },
+    "at.tomtasche.reader": {
+        "Other": [
+            "Google Play license check",
+            "full network access",
+            "prevent device from sleeping",
+            "read Google service configuration",
+            "run at startup",
+            "view network connections"
+        ]
+    },
+    "org.fedorahosted.freeotp": {
+        "Location": [
+            "approximate location (network-based)"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Other": [
+            "access Bluetooth settings",
+            "control vibration",
+            "full network access",
+            "pair with Bluetooth devices"
+        ]
+    },
+    "com.nextcloud.client": {
+        "Identity": [
+            "add or remove accounts",
+            "find accounts on the device"
+        ],
+        "Calendar": [
+            "add or modify calendar events and send email to guests without owners' knowledge",
+            "read calendar events plus confidential information"
+        ],
+        "Contacts": [
+            "find accounts on the device",
+            "modify your contacts",
+            "read your contacts"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Other": [
+            "control Near Field Communication",
+            "control vibration",
+            "create accounts and set passwords",
+            "full network access",
+            "install shortcuts",
+            "prevent device from sleeping",
+            "read sync settings",
+            "run at startup",
+            "toggle sync on and off",
+            "use accounts on the device",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "read sync statistics",
+            "receive data from Internet"
+        ]
+    },
+    "com.kabouzeid.gramophone": {
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Other": [
+            "full network access",
+            "modify system settings",
+            "prevent device from sleeping",
+            "run at startup",
+            "send sticky broadcast",
+            "view network connections"
+        ]
+    },
+    "com.ichi2.anki": {
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Other": [
+            "control vibration",
+            "full network access",
+            "measure app storage space",
+            "prevent device from sleeping",
+            "run at startup",
+            "view network connections"
+        ]
+    },
+    "com.mapswithme.maps.pro": {
+        "Contacts": [
+            "read your contacts"
+        ],
+        "Location": [
+            "approximate location (network-based)",
+            "precise location (GPS and network-based)"
+        ],
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Camera": [
+            "take pictures and videos"
+        ],
+        "Microphone": [
+            "record audio"
+        ],
+        "Wi-Fi connection information": [
+            "view Wi-Fi connections"
+        ],
+        "Other": [
+            "connect and disconnect from Wi-Fi",
+            "control Near Field Communication",
+            "control vibration",
+            "full network access",
+            "modify system settings",
+            "prevent device from sleeping",
+            "read battery statistics",
+            "run at startup",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "receive data from Internet"
+        ]
+    },
+    "com.owncloud.android": {
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Other": [
+            "full network access",
+            "prevent device from sleeping",
+            "read sync settings",
+            "run at startup",
+            "send sticky broadcast",
+            "toggle sync on and off",
+            "view network connections"
+        ],
+        "Uncategorized": [
+            "read sync statistics"
+        ]
+    },
+    "de.reimardoeffinger.quickdic": {
+        "Photos/Media/Files": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Storage": [
+            "modify or delete the contents of your USB storage",
+            "read the contents of your USB storage"
+        ],
+        "Other": [
+            "full network access"
+        ]
     }
 }

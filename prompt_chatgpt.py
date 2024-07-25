@@ -28,72 +28,20 @@ def ask_chatgpt(question):
 
 
 def formulate_question(code_src_link):
-    return f"""
-Please reference code repository here [{code_src_link}] and give a list of the data practices used within the code. Your answer to this question must include only options from the list of the provided app data practices. Please do not give any descriptions for each, just a list.
+    with open("dpps.csv") as in_file:
+        df = pd.read_csv(in_file)
 
-[
-    "measure app storage space",
-    "read sync settings",
-    "download files without notification",
-    "control vibration",
-    "Google Play license check",
-    "create accounts and set passwords",
-    "change network connectivity",
-    "record audio",
-    "control flashlight",
-    "read the contents of your USB storage",
-    "modify your contacts",
-    "modify or delete the contents of your USB storage",
-    "read calendar events plus confidential information",
-    "send sticky broadcast",
-    "full network access",
-    "disable your screen lock",
-    "read phone status and identity",
-    "add or remove accounts",
-    "connect and disconnect from Wi-Fi",
-    "send SMS messages",
-    "read sync statistics",
-    "run at startup",
-    "view network connections",
-    "capture video output",
-    "read battery statistics",
-    "draw over other apps",
-    "read your own contact card",
-    "read Google service configuration",
-    "precise location (GPS and network-based)",
-    "change your audio settings",
-    "toggle sync on and off",
-    "find accounts on the device",
-    "view Wi-Fi connections",
-    "retrieve running apps",
-    "access Bluetooth settings",
-    "approximate location (network-based)",
-    "read Home settings and shortcuts",
-    "read your contacts",
-    "control Near Field Communication",
-    "uninstall shortcuts",
-    "take pictures and videos",
-    "receive text messages (SMS)",
-    "add or modify calendar events and send email to guests without owners' knowledge",
-    "receive data from Internet",
-    "read frame buffer",
-    "use accounts on the device",
-    "set wallpaper",
-    "install shortcuts",
-    "directly call phone numbers",
-    "read call log",
-    "allow Wi-Fi Multicast reception",
-    "reorder running apps",
-    "change screen orientation",
-    "pair with Bluetooth devices",
-    "prevent device from sleeping"
-]
-"""
+        dpp_options = "\n".join(list(df["Permission"]))
+
+    setup = f"Please reference code repository here [{code_src_link}] and give a list of the data practices used within the code. Your answer must include only options from the list of the provided app data practices. Please do not give any descriptions for each or formatting, such as quotations and hyphens. Your response should only be a list with each item on its own line. The possible data practices are as follows: "
+
+    question_str = setup + "\n" + dpp_options
+    return question_str
 
 
 def save_response(app_id, answer):
     # Strip formatting and split the answer into list of the lines
-    ai_response = re.sub('-{1} {1}|"', "", answer).splitlines()
+    ai_response = re.sub('-{1} {1}|"', "", answer).splitlines().lower()
 
     # Save the response to a json file
     with open("dpp_ai_gen.json", "r") as file:
